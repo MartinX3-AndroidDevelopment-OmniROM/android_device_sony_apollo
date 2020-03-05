@@ -1,0 +1,8 @@
+[
+  {
+    "remote":       "MartinX3-AndroidDevelopment-OmniROM",
+    "repository":   "android_device_sony_customization",
+    "target_path":  "device/sony/customization",
+    "revision":       "MartinX3/omnirom-9.0_twrp-10.0"
+  }
+]
